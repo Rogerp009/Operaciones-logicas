@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Gastronomica
 Informacion basica
 
@@ -137,3 +138,7 @@ Resenas por id de restaurante
 Se le debe pasar la id del restaurante.
 
 http://api.gastronomica.mobi/v1/resenas/:id
+=======
+# Operaciones-logicas
+Operaciones logicas en Java 
+>>>>>>> 3b7928c752e386c7232a43ab3afbcd6d50e99b5d
